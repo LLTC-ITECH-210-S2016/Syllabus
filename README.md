@@ -1,11 +1,11 @@
 ![STEM Logo](http://i.imgur.com/0SmUgXq.jpg)
 #Introduction to Programming
-##ITECH 210.1
-##Eric Kuha, Instructor
-##Leech Lake Tribal College
+**ITECH 210.1**
+**Eric Kuha, Instructor**
+**Leech Lake Tribal College**
 
-[eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)
-218-335-4257
+**[eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)**
+**218-335-4257**
 
 **Text:** Lambert. Fundamentals of Python: First Programs. ISBM 9781111822705
 
