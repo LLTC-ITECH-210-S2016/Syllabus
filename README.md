@@ -1,3 +1,4 @@
+![STEM Logo](http://i.imgur.com/0SmUgXq.jpg)
 #Introduction to Programming
 ###ITECH 210.1
 ###Eric Kuha, Instructor
