@@ -53,7 +53,7 @@
 
 **Schedule:** Below is a basic schedule of topics to be covered and kind of when they might end up landing. It is subject to change. *All assignemtns will be submitted electronically via GitHub*, and all feedback will be, likewise, electronically delivered. This is a technology class after all and we will try to be green. **I do not need or want paper copies of anything ever**.
 | Week | Material |
-| ----- | -------- |
+| -------- | -------- |
 | 1 | Intro to Computer Science, History, Theory, Raspberry Pi, and Python |
 | 2 | Continued |
 | 3 | Software Development Cycle |
