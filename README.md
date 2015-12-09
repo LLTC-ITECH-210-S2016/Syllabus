@@ -52,17 +52,17 @@
 * General Assignments - Weight 4
 
 **Schedule:** Below is a basic schedule of topics to be covered and kind of when they might end up landing. It is subject to change. *All assignemtns will be submitted electronically via GitHub*, and all feedback will be, likewise, electronically delivered. This is a technology class after all and we will try to be green. **I do not need or want paper copies of anything ever**.
- Week | Material 
-:-----:|--------:
-1 | Intro to Computer Science, History, Theory, Raspberry Pi, and Python
-2 | Continued
-3 | Software Development Cycle
-4 | Control Statements
-5 | Continued
-6 | Strings and Files
-7 | Continued
-8 | Lists and Dictionaries
-9 | Functions
-10 | Continued
-11 | Classes and Object Oriented Programming
-12 - 15 | Etc
+| Week | Material |
+| ----- | -------- |
+| 1 | Intro to Computer Science, History, Theory, Raspberry Pi, and Python |
+| 2 | Continued |
+| 3 | Software Development Cycle |
+| 4 | Control Statements |
+| 5 | Continued |
+| 6 | Strings and Files |
+| 7 | Continued |
+| 8 | Lists and Dictionaries |
+| 9 | Functions |
+| 10 | Continued |
+| 11 | Classes and Object Oriented Programming |
+| 12 - 15 | Etc |
