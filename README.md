@@ -1,8 +1,8 @@
 ![STEM Logo](http://i.imgur.com/0SmUgXq.jpg)
 #Introduction to Programming
-###ITECH 210.1
-###Eric Kuha, Instructor
-###Leech Lake Tribal College
+##ITECH 210.1
+##Eric Kuha, Instructor
+##Leech Lake Tribal College
 
 [eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)
 218-335-4257
@@ -19,13 +19,13 @@
 
 **Course Description:**This course is an introduction to programming (algorithmic problem solving). We will use the Python 3 programming language and a version of the Linux operating system called Debian.  This class will cover various topics, including Object Oriented, Functional, and Interactive programming as well as history and impact of computing.
 
-**Course Objectives:**
+##Course Objectives:
 * Understand some of the history and theory behind computers and programming languages
 * Become literate in the Python programming language
 * Be able to spot a problem that can be solved in an algorithmic way
 * Be able to plan, design, write, and execute a simple computer program from first principles
 
-**Course Metrics:**
+##Course Metrics:
 * Attend each class period and learn the steps to comlete various tasks.
 * Complete assigned exercieses to develop skills
 * Apply knowledge to everyday situations
