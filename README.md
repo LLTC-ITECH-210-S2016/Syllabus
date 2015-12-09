@@ -19,16 +19,16 @@
 **Course Description:**This course is an introduction to programming (algorithmic problem solving). We will use the Python 3 programming language and a version of the Linux operating system called Debian.  This class will cover various topics, including Object Oriented, Functional, and Interactive programming as well as history and impact of computing.
 
 **Course Objectives:**
-*Understand some of the history and theory behind computers and programming languages
-*Become literate in the Python programming language
-*Be able to spot a problem that can be solved in an algorithmic way
-*Be able to plan, design, write, and execute a simple computer program from first principles
+* Understand some of the history and theory behind computers and programming languages
+* Become literate in the Python programming language
+* Be able to spot a problem that can be solved in an algorithmic way
+* Be able to plan, design, write, and execute a simple computer program from first principles
 
 **Course Metrics:**
-*Attend each class period and learn the steps to comlete various tasks.
-*Complete assigned exercieses to develop skills
-*Apply knowledge to everyday situations
-*Be tested regularly on material covered in class
+* Attend each class period and learn the steps to comlete various tasks.
+* Complete assigned exercieses to develop skills
+* Apply knowledge to everyday situations
+* Be tested regularly on material covered in class
 
 **What to Expect:** Generally, classes will consist of a combination of instruction and "lab" time. If enrollment is high enough, students will work in pairs usin ga system called "pair programming." If not, all work will typically be accomlished solo.
 
