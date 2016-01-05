@@ -45,7 +45,7 @@
 
 **The Learning Center:** provides free learning assistance and resources for all LLTC classes. Students can work independently or in small groups while having access to trained peer mentors. No appointments necessary. I will also have some scheduled office hours each week, where I would be happy to help out with any questions you might have.
 
-**Pleagiarism, Academic Integrity, and Disruptive Behavior:**
+**Plagiarism, Academic Integrity, and Disruptive Behavior:**
 *See "Academic Integrity" in the College Catalogue and Student Handbook. I understand there is often some confusion about just what plagiarism is, and I will work with students on a case-by-case basis when addressing these concerns.
 *"Student Code of Conduct* in the Student Handbook has information as well.
 *This class is in a room full of computers and the temptation to surf the internet, check your Tweeters, obsessivly check your F-Books can be great.  But remember, during instruction time, paying attention is critical. So please, do try to be adults and exercise a certain amount of self-control.  My usual method of combating this is *shame,* and believe me, you don't want that.
