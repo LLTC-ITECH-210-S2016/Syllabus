@@ -6,6 +6,10 @@
 * **[eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)**
 * **218-335-4257**
 
+* **Need Help?**
+  * [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/LLTC-ITECH-210-S2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+    * The chatroom even sends messages when no one is online, so feel free to post anytime.
+
 **Text:** Lambert. Fundamentals of Python: First Programs. ISBN 9781111822705
 
 **Other Required Materials** Raspberry Pi Computer kit with Raspbian Linux and Python 3 installed.  This will be supplied to the student at no cost. Also, a free GitHub account will be required for submission of all homework assignments.  A GitHub tutorial will be covered in the class.
