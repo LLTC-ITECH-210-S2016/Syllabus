@@ -6,7 +6,7 @@
 * **[eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)**
 * **218-335-4257**
 
-**Text:** Lambert. Fundamentals of Python: First Programs. ISBM 9781111822705
+**Text:** Lambert. Fundamentals of Python: First Programs. ISBN 9781111822705
 
 **Other Required Materials** Raspberry Pi Computer kit with Raspbian Linux and Python 3 installed.  This will be supplied to the student at no cost. Also, a free GitHub account will be required for submission of all homework assignments.  A GitHub tutorial will be covered in the class.
 
