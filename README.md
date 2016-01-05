@@ -8,9 +8,12 @@
 
 * **Need Help?**
   * [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/LLTC-ITECH-210-S2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-    * The chatroom even sends messages when no one is online, so feel free to post anytime.
+   * The chatroom even sends messages when no one is online, so feel free to post anytime.
+  * Look through and create [issues](https://github.com/LLTC-ITECH-210-S2016/Syllabus/issues).
+  * Check my Office Hours on the [class portal](http://my.lltc.edu/ICS/Academics/ITECH/ITECH210/2015_SP-ITECH210-1/).
+  * 
 
-**Text:** Lambert. Fundamentals of Python: First Programs. ISBN 9781111822705
+**Text:** Lambert. Fundamentals of Python: First Programs. ISBN [9781111822705](https://www.google.com/search?q=9781111822705&oq=9781111822705&aqs=chrome..69i57j69i60l3.175j0j7&sourceid=chrome&es_sm=122&ie=UTF-8)
 
 **Other Required Materials** Raspberry Pi Computer kit with Raspbian Linux and Python 3 installed.  This will be supplied to the student at no cost. Also, a free GitHub account will be required for submission of all homework assignments.  A GitHub tutorial will be covered in the class.
 
