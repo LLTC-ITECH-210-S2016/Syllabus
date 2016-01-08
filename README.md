@@ -37,7 +37,7 @@
 * Apply knowledge to everyday situations
 * Be tested regularly on material covered in class
 
-**What to Expect:** Generally, classes will consist of a combination of instruction and "lab" time. If enrollment is high enough, students will work in pairs usin ga system called "pair programming." If not, all work will typically be accomlished solo.
+**What to Expect:** Generally, classes will consist of a combination of instruction and "lab" time. If enrollment is high enough, students will work in pairs using a system called "pair programming." Otherwise, we will do a combination of "class programming" and solo work.
 
 **Attendance:** As you are no doubt aware, attendance is absolutely critical to success everywhere. Somtimes the text will be missing steps or procedures or other material. I will even be deviating from the text periodically to address wider issues and demonstrate newer technologies and methods of interacting with today's technological world. Thus, attendance is not only highly advised, but, in fact, mandatory. I think it's also important to address the issue of tardiness. I start class immediately at the designated time. So please do try to be in class on time. Somtimes it takes a minute or two to log in and the later you arrive, the harder it will be to pick up the thread of wahtever we are doing that day.
 
