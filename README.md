@@ -21,46 +21,55 @@
 ## Other Suggested Materials
 * A USB flash drive is a very good idea.  Instructions for mounting it on the Raspberry Pi will be provided.
 
-**Course Fulfillment:** This course fulfills elective credits for the Liberal Education STEM Emphasis A.A. program.
+## Course Fulfillment: 
+* This course fulfills elective credits for the Liberal Education STEM Emphasis A.A. program.
 
-**Prerequisite:** Math 150, ITECH 150, or instructor's approval.
+## Prerequisite:
+* Math 150, ITECH 150, or instructor's approval.
 
-**Course Description:**This course is an introduction to programming (algorithmic problem solving). We will use the Python 3 programming language and a version of the Linux operating system called Debian.  This class will cover various topics, including Object Oriented, Functional, and Interactive programming as well as history and impact of computing.
+## Course Description:
+* This course is an introduction to programming (algorithmic problem solving). We will use the Python 3 programming language and a version of the Linux operating system called Debian.  This class will cover various topics, including Object Oriented, Functional, and Interactive programming as well as history and impact of computing.
 
-##Course Objectives:
+## Course Objectives:
 * Understand some of the history and theory behind computers and programming languages
 * Become literate in the Python programming language
 * Be able to spot a problem that can be solved in an algorithmic way
 * Be able to plan, design, write, and execute a simple computer program from first principles
 
-##Course Metrics:
+## Course Metrics:
 * Attend each class period and learn the steps to comlete various tasks.
 * Complete assigned exercieses to develop skills
 * Apply knowledge to everyday situations
 * Be tested regularly on material covered in class
 
-**What to Expect:** Generally, classes will consist of a combination of instruction and "lab" time. If enrollment is high enough, students will work in pairs using a system called "pair programming." Otherwise, we will do a combination of "class programming" and solo work.
+## What to Expect:
+* Generally, classes will consist of a combination of instruction and "lab" time. If enrollment is high enough, students will work in pairs using a system called "pair programming." Otherwise, we will do a combination of "class programming" and solo work.
 
-**Attendance:** As you are no doubt aware, attendance is absolutely critical to success everywhere. Somtimes the text will be missing steps or procedures or other material. I will even be deviating from the text periodically to address wider issues and demonstrate newer technologies and methods of interacting with today's technological world. Thus, attendance is not only highly advised, but, in fact, mandatory. I think it's also important to address the issue of tardiness. I start class immediately at the designated time. So please do try to be in class on time. Somtimes it takes a minute or two to log in and the later you arrive, the harder it will be to pick up the thread of wahtever we are doing that day.
+## Attendance:
+* As you are no doubt aware, attendance is absolutely critical to success everywhere. Somtimes the text will be missing steps or procedures or other material. I will even be deviating from the text periodically to address wider issues and demonstrate newer technologies and methods of interacting with today's technological world. Thus, attendance is not only highly advised, but, in fact, mandatory. I think it's also important to address the issue of tardiness. I start class immediately at the designated time. So please do try to be in class on time. Somtimes it takes a minute or two to log in and the later you arrive, the harder it will be to pick up the thread of wahtever we are doing that day.
 
-**Disabilities Act:** In compliance with the Americans with Disabilities Act, Leech Lake Tribal College will make every effort to provide equal access for persons with disabilities. If you need any accomodation due to disability, please contact me or Student Services at 335-4276.
+## Disabilities Act:
+* In compliance with the Americans with Disabilities Act, Leech Lake Tribal College will make every effort to provide equal access for persons with disabilities. If you need any accomodation due to disability, please contact me or Student Services at 335-4276.
 
-**The Learning Center:** provides free learning assistance and resources for all LLTC classes. Students can work independently or in small groups while having access to trained peer mentors. No appointments necessary. I will also have some scheduled office hours each week, where I would be happy to help out with any questions you might have.
+## The Learning Center: 
+* provides free learning assistance and resources for all LLTC classes. Students can work independently or in small groups while having access to trained peer mentors. No appointments necessary. I will also have some scheduled office hours each week, where I would be happy to help out with any questions you might have.
 
-**Plagiarism, Academic Integrity, and Disruptive Behavior:**
+## Plagiarism, Academic Integrity, and Disruptive Behavior:
 *See "Academic Integrity" in the College Catalogue and Student Handbook. I understand there is often some confusion about just what plagiarism is, and I will work with students on a case-by-case basis when addressing these concerns.
 *"Student Code of Conduct* in the Student Handbook has information as well.
 *This class is in a room full of computers and the temptation to surf the internet or check your social media can be great, but remember, during instruction time, paying attention is cricial.  So please, do try to be adults and execise some self-control.
 *The same goes for cell-phones and smartphones. Obviously.
 
-**Evaluation:** (This is a rough guideline, subject to change)
+## Evaluation: 
+# (This is a rough guideline, subject to change)
 * Section Tests - Weight 3
 * Exams - Weight 1
 * Attendance - Weight 1
 * Term Project - Weight 2
 * General Assignments - Weight 4
 
-**Schedule:** Below is a basic schedule of topics to be covered and kind of when they might end up landing. It is subject to change. *All assignemtns will be submitted electronically via GitHub*, and all feedback will be, likewise, electronically delivered. This is a technology class after all and we will try to be green. **I do not need or want paper copies of anything ever**.
+## Schedule:
+* Below is a basic schedule of topics to be covered and kind of when they might end up landing. It is subject to change. *All assignemtns will be submitted electronically via GitHub*, and all feedback will be, likewise, electronically delivered. This is a technology class after all and we will try to be green. **I do not need or want paper copies of anything ever**.
 
 | Week     | Material  |
 | -------- | --------- |
