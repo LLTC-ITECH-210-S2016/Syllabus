@@ -1,7 +1,7 @@
 | Course Day-to-Day |        |                                 |                    |
 |-------------------|--------|---------------------------------|--------------------|
 | Week              | Date   | Class                           | Homework           |
-| Week 1            | 11-Jan | Syllabus, Google Sites Tutorial | Set up Google Site |
+| Week 1            | 11-Jan | Syllabus, History, Organization, Algorithms |  |
 |                   | 13-Jan |                                 |                    |
 | Week 2            | 18-Jan | MLK Jr Day                      |                    |
 |                   | 20-Jan |                                 |                    |
