@@ -18,7 +18,7 @@
 * Lambert. Fundamentals of Python: First Programs. ISBN [9781111822705](https://www.google.com/search?q=9781111822705&oq=9781111822705&aqs=chrome..69i57j69i60l3.175j0j7&sourceid=chrome&es_sm=122&ie=UTF-8)
 
 ## Other Required Materials
-* Raspberry Pi Computer kit with Raspbian Linux and Python 3 installed.  This will be supplied to the student at no cost. Also, a free GitHub account will be required for submission of all homework assignments.  A GitHub tutorial will be covered in the class. Instructions for Raspberry Pi setup are [here.](https://github.com/LLTC-ITECH-210-S2016/Syllabus/blob/master/rpi.md)
+* Raspberry Pi Computer kit with Raspbian Linux and Python 3 installed.  This will be supplied to the student at no cost. Also, a free GitHub account will be required for submission of all homework assignments.  A GitHub tutorial will be covered in the class. Instructions for Raspberry Pi setup are [here.](https://github.com/LLTC-ITECH-210-S2016/Syllabus/blob/master/rpi.md) You will also require Python 3 installed on whatever machine you will use.  It is pre-installed on the Raspberry Pi operating system, but you may wish to try it on other computers. [It can be found here.](http://www.python.org/)
 
 ## Other Suggested Materials
 * A USB flash drive is a very good idea.  Instructions for mounting it on the Raspberry Pi will be provided.
