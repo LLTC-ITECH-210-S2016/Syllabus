@@ -61,7 +61,7 @@
 *The same goes for cell-phones and smartphones. Obviously.
 
 ## Evaluation: 
-** (This is a rough guideline, subject to change) **
+**(This is a rough guideline, subject to change)**
 * Section Tests - Weight 3
 * Exams - Weight 1
 * Attendance - Weight 1
