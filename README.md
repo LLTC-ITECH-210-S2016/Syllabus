@@ -1,4 +1,5 @@
-![STEM Logo](http://i.imgur.com/0SmUgXq.jpg)
+<img src="http://i.imgur.com/0SmUgXq.jpg" width="150px" align="right" />
+
 # Introduction to Programming
 * **ITECH 210.1**
 * **Eric Kuha, Instructor**
