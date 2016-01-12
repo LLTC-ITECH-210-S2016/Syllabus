@@ -6,6 +6,8 @@
 * **[eric.kuha@lltc.edu](mailto:eric.kuha@lltc.edu)**
 * **218-335-4257**
 
+[View Course Schedule](https://github.com/LLTC-ITECH-210-S2016/Syllabus/blob/master/SCHEDULE.md)
+
 * **Need Help?**
   * [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/LLTC-ITECH-210-S2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
    * The chatroom even sends messages when no one is online, so feel free to post anytime.
